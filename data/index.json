@@ -1,16 +1,140 @@
 {
   "subjects": [
+    "Accounting",
+    "Biology",
+    "Business Studies",
     "Chemistry",
+    "Computer Science",
+    "Economics",
+    "English Language",
+    "Geography",
+    "History",
     "Mathematics",
-    "Physics"
+    "Physics",
+    "Psychology",
+    "Sociology"
   ],
   "stats": {
+    "Accounting": 500,
+    "Biology": 789,
+    "Business Studies": 396,
     "Chemistry": 806,
+    "Computer Science": 740,
+    "Economics": 346,
+    "English Language": 168,
+    "Geography": 837,
+    "History": 1611,
     "Mathematics": 1490,
-    "Physics": 1294
+    "Physics": 1294,
+    "Psychology": 1266,
+    "Sociology": 203
   },
   "years": {
+    "Accounting": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "Biology": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "Business Studies": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
     "Chemistry": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "Computer Science": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "Economics": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "English Language": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "Geography": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "History": [
       2015,
       2016,
       2017,
@@ -48,7 +172,28 @@
       2023,
       2024,
       2025
+    ],
+    "Psychology": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "Sociology": [
+      2015,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
     ]
   },
-  "lastUpdated": "2026-07-12T00:46:19.441Z"
+  "lastUpdated": "2026-07-12T02:47:33.325Z"
 }
