@@ -1,35 +1,84 @@
 {
   "subjects": [
+    "A-Level Chemistry",
+    "A-Level Mathematics",
+    "A-Level Physics",
     "Accounting",
     "Biology",
     "Business Studies",
     "Chemistry",
+    "Combined Science",
     "Computer Science",
     "Economics",
     "English Language",
     "Geography",
     "History",
+    "ICT",
     "Mathematics",
     "Physics",
     "Psychology",
     "Sociology"
   ],
   "stats": {
+    "A-Level Chemistry": 1012,
+    "A-Level Mathematics": 1950,
+    "A-Level Physics": 1270,
     "Accounting": 500,
     "Biology": 789,
     "Business Studies": 396,
     "Chemistry": 806,
+    "Combined Science": 1542,
     "Computer Science": 740,
     "Economics": 346,
     "English Language": 168,
     "Geography": 837,
     "History": 1611,
+    "ICT": 562,
     "Mathematics": 1490,
     "Physics": 1294,
     "Psychology": 1266,
     "Sociology": 203
   },
   "years": {
+    "A-Level Chemistry": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "A-Level Mathematics": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "A-Level Physics": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
     "Accounting": [
       2015,
       2016,
@@ -70,6 +119,19 @@
       2025
     ],
     "Chemistry": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "Combined Science": [
       2015,
       2016,
       2017,
@@ -147,6 +209,19 @@
       2024,
       2025
     ],
+    "ICT": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
     "Mathematics": [
       2015,
       2016,
@@ -195,5 +270,5 @@
       2025
     ]
   },
-  "lastUpdated": "2026-07-12T02:47:33.325Z"
+  "lastUpdated": "2026-07-12T04:21:44.414Z"
 }
