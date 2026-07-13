@@ -1,7 +1,9 @@
 {
   "subjects": [
     "A-Level Biology",
+    "A-Level Business",
     "A-Level Chemistry",
+    "A-Level Computer Science",
     "A-Level Economics",
     "A-Level Mathematics",
     "A-Level Physics",
@@ -23,7 +25,9 @@
   ],
   "stats": {
     "A-Level Biology": 1170,
+    "A-Level Business": 514,
     "A-Level Chemistry": 1012,
+    "A-Level Computer Science": 763,
     "A-Level Economics": 510,
     "A-Level Mathematics": 1950,
     "A-Level Physics": 1270,
@@ -57,6 +61,18 @@
       2024,
       2025
     ],
+    "A-Level Business": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
     "A-Level Chemistry": [
       2015,
       2016,
@@ -64,6 +80,13 @@
       2018,
       2019,
       2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "A-Level Computer Science": [
       2021,
       2022,
       2023,
@@ -300,5 +323,5 @@
       2025
     ]
   },
-  "lastUpdated": "2026-07-13T10:31:16.203Z"
+  "lastUpdated": "2026-07-13T10:51:49.204Z"
 }
