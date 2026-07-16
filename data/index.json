@@ -37,12 +37,12 @@
     "Chemistry": 806,
     "Combined Science": 1542,
     "Computer Science": 740,
-    "Economics": 346,
+    "Economics": 418,
     "English Language": 168,
-    "Geography": 837,
+    "Geography": 930,
     "History": 1611,
     "ICT": 562,
-    "Mathematics": 1490,
+    "Mathematics": 1816,
     "Physics": 1294,
     "Psychology": 1266,
     "Sociology": 203
@@ -323,5 +323,5 @@
       2025
     ]
   },
-  "lastUpdated": "2026-07-13T10:51:49.204Z"
+  "lastUpdated": "2026-07-16T13:47:05.139Z"
 }
