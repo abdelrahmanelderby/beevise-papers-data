@@ -45,10 +45,25 @@
     "History": 879,
     "ICT": 415,
     "Mathematics": 1298,
-    "Physics": 894,
+    "Physics": 1330,
     "Psychology": 775,
     "Sociology": 136
   },
-  "totalQuestions": 12727,
-  "lastUpdated": "2026-07-17T23:03:35.962Z"
+  "totalQuestions": 13163,
+  "lastUpdated": "2026-08-02T19:54:20.398Z",
+  "years": {
+    "Physics": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  }
 }
