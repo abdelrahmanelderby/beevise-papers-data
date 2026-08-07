@@ -1,0 +1,15 @@
+{
+  "file": "C:\\Users\\ABDELR~1\\AppData\\Local\\Temp\\opencode\\beevise-data\\data\\Economics.json",
+  "subject": "Economics",
+  "board": "Cambridge",
+  "total": 422,
+  "passed": 422,
+  "failed": 0,
+  "issues": {},
+  "notes": {
+    "QP PDF not in cache — question-paper text check skipped": 194,
+    "MS PDF not in cache — mark-scheme page check skipped": 3,
+    "board Edexcel — QP/MS PDF page checks not supported yet": 48,
+    "no A/B/C/D options in text (diagram options — see paper page)": 2
+  }
+}
