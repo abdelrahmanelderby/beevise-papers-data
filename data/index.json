@@ -38,7 +38,7 @@
     "Chemistry": 645,
     "Combined Science": 839,
     "Computer Science": 506,
-    "Economics": 242,
+    "Economics": 422,
     "English Language B": 15,
     "English Language": 91,
     "Geography": 538,
@@ -338,6 +338,6 @@
       2025
     ]
   },
-  "totalQuestions": 13518,
-  "lastUpdated": "2026-08-05T21:00:57.401Z"
+  "totalQuestions": 13698,
+  "lastUpdated": "2026-08-07T22:11:51.208Z"
 }
