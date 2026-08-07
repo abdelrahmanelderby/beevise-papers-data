@@ -44,7 +44,7 @@
     "Geography": 538,
     "History": 879,
     "ICT": 415,
-    "Mathematics": 1298,
+    "Mathematics": 1309,
     "Physics": 1330,
     "Psychology": 775,
     "Sociology": 136
@@ -338,6 +338,6 @@
       2025
     ]
   },
-  "totalQuestions": 13507,
-  "lastUpdated": "2026-08-05T14:53:39.091Z"
+  "totalQuestions": 13518,
+  "lastUpdated": "2026-08-05T21:00:57.401Z"
 }
